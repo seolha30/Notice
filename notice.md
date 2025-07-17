@@ -1,5 +1,5 @@
 ## 🚀 TubeLens v6.0.1 업데이트 내역
-📺 [v6.0 업데이트 기능 사용법 영상](https://youtu.be/K4fLTU3kZe0)
+<span style="color: #ffeb3b; font-weight: bold;">📺 </span>: [v6.0 업데이트 기능 사용법 영상](https://youtu.be/K4fLTU3kZe0)
 
 게시일: 2025-07-18
 
