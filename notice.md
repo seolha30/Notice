@@ -1,7 +1,7 @@
-## 🚀 TubeLens v6.0.1 업데이트 내역
-<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/K4fLTU3kZe0" style="color: #4a9eff; text-decoration: underline;">v6.0 업데이트 기능 사용법 영상</a>
+## 🚀 TubeLens v6.0.2 업데이트
+게시일: 2025-07-20
 
-게시일: 2025-07-18
+---
 
 ## 🎉 **튜브렌즈 월간 구독제 런칭!** 🎉
 
@@ -36,7 +36,12 @@
 
 ---
 
-## 🚀 **TubeLens v6.0.0 업데이트 내역**
+## 🚀 **TubeLens v6.0.2 업데이트 내역**
+- **그룹별 채널 관리: 즐겨찾기 채널을 여러 그룹으로 분류 가능**
+
+## 🚀 **TubeLens v6.0.1 업데이트 내역**
+<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/K4fLTU3kZe0" style="color: #4a9eff; text-decoration: underline;">v6.0.1 업데이트 기능 사용법 영상</a>
+
 ### **1. 🔄 검색 히스토리 & 네비게이션 시스템**
 - **뒤로가기/앞으로가기 버튼** 추가 (◀ ▶)
 - **마우스 우클릭 제스처**로 뒤로가기/앞으로가기 가능
