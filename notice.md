@@ -37,7 +37,7 @@
 ---
 
 ## 🚀 **TubeLens v6.0.2 업데이트 내역**
-- **그룹별 채널 관리: 즐겨찾기 채널을 여러 그룹으로 분류 가능**
+- **📁 그룹별 채널 관리: 즐겨찾기 채널을 여러 그룹으로 분류 가능**
 
 ## 🚀 **TubeLens v6.0.1 업데이트 내역**
 <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/K4fLTU3kZe0" style="color: #4a9eff; text-decoration: underline;">v6.0.1 업데이트 기능 사용법 영상</a>
