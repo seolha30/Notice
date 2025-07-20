@@ -28,10 +28,10 @@
 - **다양한 채널의 영상링크를 한 번에 추가**해도<br>
 모든 채널을 **한번에 즐겨찾기** 등록 가능합니다.
 
-## 🚀 **TubeLens v6.0.2 업데이트 내역**
+### 🚀 **TubeLens v6.0.2 업데이트 내역**
 - **📁 그룹별 채널 관리: 즐겨찾기 채널을 여러 그룹으로 분류 가능**
 
-## 🚀 **TubeLens v6.0.1 업데이트 내역**
+### 🚀 **TubeLens v6.0.1 업데이트 내역**
 <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/K4fLTU3kZe0" style="color: #4a9eff; text-decoration: underline;">v6.0.1 업데이트 기능 사용법 영상</a>
 
 ### **1. 🔄검색 히스토리 & 네비게이션 시스템**
