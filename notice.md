@@ -27,8 +27,8 @@
 - **재사용OK** 버튼 추가: **전체 <-> 재사용OK(CC)** 토글버튼 변경
 - 기존 조회수순/최신순 버튼은 **조회수순 <-> 최신순**으로 변경
 
-### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/nFI9PUbbTUQ" style="color: #4a9eff; text-decoration: underline;">틱톡렌즈 설치방법 및 소개</a>
 ### 2. 틱톡렌즈(TikTok Lens) 서비스 추가
+- <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/nFI9PUbbTUQ" style="color: #4a9eff; text-decoration: underline;">틱톡렌즈 설치방법 및 소개</a>
 - **하단 홈페이지 방문**후, 프로그램 다운로드에서 **틱톡렌즈** 다운로드
 - 틱톡에서 영상 정보 한눈에 확인 및 영상 바로 다운로드 기능
 
