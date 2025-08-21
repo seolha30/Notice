@@ -1,5 +1,5 @@
 ## 🚀 TubeLens v6.0.7 업데이트
-- 국가 한국 설정시, 자동번역 비활성화
+### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
 ---
 
 ## 🎉 **튜브렌즈 월간 구독제 런칭!** 🎉
