@@ -1,4 +1,4 @@
-## 🚀 TubeLens v6.1.2 업데이트
+## 🚀 TubeLens v6.1.3 업데이트
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
 - 샤오홍슈 다운로드 업데이트 (인스타/틱톡/유튜브/샤오홍슈 링크가능)
 - 한국어 이외의 외국어 자막 수집 가능 (예시 : 일본어, 영어, 독일어, 스페인어 등)
