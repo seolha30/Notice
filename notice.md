@@ -1,8 +1,7 @@
-## 🚀 TubeLens v6.1.3 업데이트
+## 🚀 TubeLens v6.1.4 업데이트
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
-- 다운로드 업데이트 (인스타/틱톡/유튜브 링크가능)
-- 한국어 이외의 외국어 자막 수집 가능 (예시 : 일본어, 영어, 독일어, 스페인어 등)
-- 검색결과 내 재검색 기능 추가
+- 영상수집 기간선택 : 1일 이내, 1시간 이내 추가
+- 영상 길이 정렬기능 추가
 ---
 
 ## 🎉 **튜브렌즈 월간 구독제 런칭!** 🎉
@@ -13,21 +12,18 @@
 
 ---
 
-## 🚀 TubeLens v6.0 업데이트 내역
+## 🚀 TubeLens v6.1 업데이트 내역
 
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/K4fLTU3kZe0" style="color: #4a9eff; text-decoration: underline;">v6.0.1 업데이트 기능 사용법 영상</a>
 
-### 1. 다운로드 업데이트
-- URL에 유튜브 링크뿐 아니라, 인스타/틱톡 링크를 넣어 다운로드가 가능합니다.
-
-### 2. 한국어 이외의 외국어 자막 수집 가능 🤝
-- **자막 수집 업데이트**
-  : 영어, 일본어, 독일어, 스페인어 등의 국가별 자막 수집가능
+### 1. 영상수집 기간선택 : 1일 이내, 1시간 이내 추가
+- 더욱 최근 영상을 바로 확인 할 수 있습니다.
   
-### 3. 검색결과 내 재검색 기능 추가
-- 수집 된 영상내에 원하는 영상만 바로 볼 수 있도록, '결과 내 재검색' 기능 추가
+### 2. 영상 길이 정렬기능 추가
+- 영상길이 헤더 마우스 우클릭 하면, 긴순, 짧은순으로 정렬이 가능하며, '영상길이 선택'으로 긴 롱폼의 영상만 필터 할 수 있습니다.
+  (ex. 1~2시간 길이의 영상필터)
 
-### 4. 틱톡렌즈(TikTok Lens) 서비스 추가
+### 3. 틱톡렌즈(TikTok Lens) 서비스 추가
 - **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/nFI9PUbbTUQ" style="color: #4a9eff; text-decoration: underline;">틱톡렌즈 설치방법 및 소개</a>**
 - **하단 홈페이지 방문**후, 프로그램 다운로드에서 **틱톡렌즈** 다운로드
 - 틱톡에서 영상 정보 한눈에 확인 및 영상 바로 다운로드 기능
