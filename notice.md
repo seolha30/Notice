@@ -1,5 +1,6 @@
 ## 🚀 TubeLens v6.1.4 업데이트
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
+### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/aD0_NP629DE" style="color: #4a9eff; text-decoration: underline;">v6.1.4 업데이트 안내</a>
 - 영상수집 기간선택 : 1일 이내, 1시간 이내 추가
 - 영상 길이 정렬기능 추가
 ---
@@ -15,6 +16,7 @@
 ## 🚀 TubeLens v6.1 업데이트 내역
 
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/K4fLTU3kZe0" style="color: #4a9eff; text-decoration: underline;">v6.0.1 업데이트 기능 사용법 영상</a>
+### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/aD0_NP629DE" style="color: #4a9eff; text-decoration: underline;">v6.1.4 업데이트 안내</a>
 
 ### 1. 영상수집 기간선택 : 1일 이내, 1시간 이내 추가
 - 더욱 최근 영상을 바로 확인 할 수 있습니다.
