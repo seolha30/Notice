@@ -11,7 +11,7 @@
 ## 🚀 튜브렌즈 추가 서비스!
 
 ### 1. 튜브렌즈 라이트 웹버전
-- **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/PKTwdt32soQ" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 라이트 소개 및 안내</a>**
+- **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/PKTwdt32soQ" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 라이트 웹버전 소개 및 안내</a>**
 - 홈페이지 접속 후, **튜브렌즈 라이트 (웹 버전)** 클릭 접속 후 사용
 - 또는 **<span style="color: #ffff00; font-weight: bold;"></span>: <a href="https://lite.tubelens.kr" style="color: #4a9eff; text-decoration: underline;">https://lite.tubelens.kr</a>**
 
