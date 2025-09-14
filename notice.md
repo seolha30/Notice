@@ -1,14 +1,11 @@
-## 🚀 TubeLens v6.2.0 업데이트
-### 에러 사항 공지
-- 이번 쇼츠/롱폼 개별 수집 업데이트를 하며, AI기능 호환 매칭에 오류가 있어 수정중에 있습니다.
-- 빠른 시일내에 복구 하도록 하겠습니다!
-
+## 🚀 TubeLens v6.2.1 업데이트 09-15
 
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/aD0_NP629DE" style="color: #4a9eff; text-decoration: underline;">v6.1.4 업데이트 안내</a>
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/PKTwdt32soQ" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 라이트 웹버전 안내</a>
 - 쇼츠/롱폼 각 수집 가능
 - 채널검색/채널 즐겨찾기도 쇼츠/롱폼 각 수집 가능
+- 에러사항 수정 09-15
   
 - 채널 즐겨찾기의 전체선택 오류 수정
 - URL 입력창에 유튜브 링크를 넣고 '엔터' 누르면 테이블에 정보표기
