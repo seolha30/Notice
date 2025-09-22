@@ -1,13 +1,13 @@
-## 🚀 TubeLens v6.2.2 업데이트 09-20
+## 🚀 TubeLens v6.2.3 업데이트 09-23
 
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/gCm_ZJL1-T0" style="color: #4a9eff; text-decoration: underline;">v6.2.1 업데이트 안내</a>
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/PKTwdt32soQ" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 라이트 웹버전 안내</a>
 
-- 자막 번역기능 추가 09-20
-- 쇼츠/롱폼 각 수집 가능 09-15
-- 채널검색/채널 즐겨찾기도 쇼츠/롱폼 각 수집 가능 09-15
-- 에러사항 수정 09-15
+- 빠른번역/고품질번역 선택기능 추가
+- 채널 즐겨찾기의 폴더 및 채널 위치변경 가능
+- 틱톡렌즈 v2.1 업데이트
+: 도우인 사이트에서 영상 다운로드 가능
 
 ---
 
@@ -18,17 +18,20 @@
 - 홈페이지 접속 후, **튜브렌즈 라이트 (웹 버전)** 클릭 접속 후 사용
 - 또는 **<span style="color: #ffff00; font-weight: bold;"></span>: <a href="https://lite.tubelens.kr" style="color: #4a9eff; text-decoration: underline;">https://lite.tubelens.kr</a>**
 
-### 2. 틱톡렌즈(TikTok Lens)
+### 2. 틱톡렌즈 v2.1 (TikTok Lens)
 - **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/nFI9PUbbTUQ" style="color: #4a9eff; text-decoration: underline;">틱톡렌즈 설치방법 및 소개</a>**
 - **하단 홈페이지 방문**후, 프로그램 다운로드에서 **틱톡렌즈** 다운로드
 - 틱톡에서 영상 정보 한눈에 확인 및 영상 바로 다운로드 기능
+- 도우인에서 영상 다운로드 기능 추가 09-23
 
 ---
 
 ## 🚀 TubeLens v6 업데이트 내역
 
 ### 1. 자막 번역기능 추가
-- 자막 수집 후, 나라별 AI를 이용한 번역기능을 추가하였습니다. (자막의 길이에 따라 번역하는데 시간이 걸리니 이 점 참고바랍니다)
+- 자막 수집 후, 나라별 AI를 이용한 번역기능을 추가하였습니다.
+- 빠른번역/고품질번역 선택기능 추가
+- 채널 즐겨찾기의 폴더 및 채널 위치변경 가능
 
 ### 2. 쇼츠/롱폼 개별 수집 업데이트
 - **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/gCm_ZJL1-T0" style="color: #4a9eff; text-decoration: underline;">v6.2.1 업데이트 안내</a>**
