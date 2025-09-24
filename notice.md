@@ -1,9 +1,10 @@
-## 🚀 TubeLens v6.2.3 업데이트 09-23
+## 🚀 TubeLens v6.2.4 업데이트 09-25
 
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/gCm_ZJL1-T0" style="color: #4a9eff; text-decoration: underline;">v6.2.1 업데이트 안내</a>
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/PKTwdt32soQ" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 라이트 웹버전 안내</a>
 
+- 유튜브 다운로드 업데이트
 - 빠른번역/고품질번역 선택기능 추가
 - 채널 즐겨찾기의 폴더 및 채널 위치변경 가능
 - 틱톡렌즈 v2.1 업데이트
@@ -48,6 +49,7 @@
 ### 5. URL 입력창 업데이트
 - URL 입력창에 유튜브 링크를 넣으고 '엔터'를 누르면 테이블에 정보 표기가 됩니다.
 - URL 입력창에 유튜브 링크를 넣고, 'URL 다운'을 누르면 영상 다운로드가 됩니다.
+- 유튜브 다운로드 업데이트 : 유튜브의 영상 전달 방식 변경으로 인한 다운로드 업데이트
 
 ---
 
