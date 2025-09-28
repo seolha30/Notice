@@ -1,14 +1,14 @@
-## 🚀 TubeLens v6.2.4 업데이트 09-25
+## 🚀 TubeLens v6.2.5 업데이트 09-28
 
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/gCm_ZJL1-T0" style="color: #4a9eff; text-decoration: underline;">v6.2.1 업데이트 안내</a>
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/PKTwdt32soQ" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 라이트 웹버전 안내</a>
 
-- 유튜브 다운로드 업데이트
-- 빠른번역/고품질번역 선택기능 추가
-- 채널 즐겨찾기의 폴더 및 채널 위치변경 가능
-- 틱톡렌즈 v2.1 업데이트
-: 도우인 사이트에서 영상 다운로드 가능
+- 유튜브 다운로드 개선 업데이트 : 유튜브의 보안 업데이트로 인한 다운로드 문제개선 09-28
+- 빠른번역/고품질번역 선택기능 추가 09-25
+- 채널 즐겨찾기의 폴더 및 채널 위치변경 가능 09-25
+- 틱톡렌즈 v2.1 업데이트 09-25
+: 도우인 사이트에서 영상 다운로드 가능 09-25
 
 ---
 
