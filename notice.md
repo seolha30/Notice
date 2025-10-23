@@ -6,7 +6,6 @@
 유튜브에서 보안 정책을 업데이트하면서 다운로드 기능이 차단되었습니다. 
 이는 저희 프로그램만의 문제가 아니라 대부분의 유튜브 다운로드 도구에서 동시에 발생하는 현상입니다.​
 
-임시 대안:
 다른 프로그램 기능들은 정상적으로 사용 가능합니다
 불편을 드려 죄송하며, 
 빠른 시일 내에 수정 버전을 업데이트 할 수 있도록 하겠습니다.
@@ -19,11 +18,7 @@
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/PKTwdt32soQ" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 라이트 웹버전 안내</a>
 
-- 유튜브 다운로드 개선 업데이트 : 유튜브의 보안 업데이트로 인한 다운로드 문제개선 09-28
-- 빠른번역/고품질번역 선택기능 추가 09-25
-- 채널 즐겨찾기의 폴더 및 채널 위치변경 가능 09-25
-- 틱톡렌즈 v2.1 업데이트 09-25
-: 도우인 사이트에서 영상 다운로드 가능 09-25
+
 
 ---
 
