@@ -3,12 +3,13 @@
 - 매일 원하는 시간에 본인의 주제에 맞는
 - '어제의 떡상 영상'을 매일 메일로 받아보세요!
 
-✅ 튜브레터
+### 📩 튜브레터
 - 등록 채널의 떡상 영상 자동 수집
 - 어제의 트렌드 & 제목패턴 분석
 - 벤치마킹 채널 자동수집
 - 맞춤제목 추천
 - **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/inoIscIEzCo" style="color: #4a9eff; text-decoration: underline;">튜브레터 소개 및 사용법</a>**
+
 
 ### 🚀 TubeLens v6.2.7 업데이트 10-23
 
