@@ -3,30 +3,35 @@
 - 매일 원하는 시간에 본인의 주제에 맞는
 - '어제의 떡상 영상'을 매일 메일로 받아보세요!
 
-### 📩 튜브레터
+### 🚀 TubeLens v6.2.8 업데이트 10-31
+
+- 영상 수집 후, 원하는 영상의 채널 즐겨찾기 추가
+- 채널 즐겨찾기 목록 다운로드
+
+---
+
+### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/gCm_ZJL1-T0" style="color: #4a9eff; text-decoration: underline;">v6.2.1 업데이트 안내</a>
+### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
+### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/PKTwdt32soQ" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 라이트 웹버전 안내</a>
+### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/inoIscIEzCo" style="color: #4a9eff; text-decoration: underline;">튜브레터 소개 및 사용법</a>
+
+---
+
+## 🚀 튜브렌즈 추가 서비스!
+
+### 1) 튜브레터
 - 등록 채널의 떡상 영상 자동 수집
 - 어제의 트렌드 & 제목패턴 분석
 - 벤치마킹 채널 자동수집
 - 맞춤제목 추천
 - **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/inoIscIEzCo" style="color: #4a9eff; text-decoration: underline;">튜브레터 소개 및 사용법</a>**
 
-
-### 🚀 TubeLens v6.2.7 업데이트 10-23
-
-### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/gCm_ZJL1-T0" style="color: #4a9eff; text-decoration: underline;">v6.2.1 업데이트 안내</a>
-### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/_U0ZlWsQC2w" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 완벽 사용법 영상 (37분)</a>
-### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/PKTwdt32soQ" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 라이트 웹버전 안내</a>
-
----
-
-## 🚀 튜브렌즈 추가 서비스!
-
-### 1. 튜브렌즈 라이트 웹버전
+### 2) 튜브렌즈 라이트 웹버전
 - **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/PKTwdt32soQ" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 라이트 웹버전 소개 및 안내</a>**
 - 홈페이지 접속 후, **튜브렌즈 라이트 (웹 버전)** 클릭 접속 후 사용
 - 또는 **<span style="color: #ffff00; font-weight: bold;"></span>: <a href="https://lite.tubelens.kr" style="color: #4a9eff; text-decoration: underline;">https://lite.tubelens.kr</a>**
 
-### 2. 틱톡렌즈 v2.1 (TikTok Lens)
+### 3) 틱톡렌즈 v2.1 (TikTok Lens)
 - **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/nFI9PUbbTUQ" style="color: #4a9eff; text-decoration: underline;">틱톡렌즈 설치방법 및 소개</a>**
 - **하단 홈페이지 방문**후, 프로그램 다운로드에서 **틱톡렌즈** 다운로드
 - 틱톡에서 영상 정보 한눈에 확인 및 영상 바로 다운로드 기능
