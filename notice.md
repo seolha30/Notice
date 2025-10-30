@@ -7,6 +7,7 @@
 
 - 영상 수집 후, 원하는 영상의 채널 즐겨찾기 추가
 - 채널 즐겨찾기 목록 다운로드
+- **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/8ZCZv0epaI0" style="color: #4a9eff; text-decoration: underline;">v6.2.8 업데이트 영상</a>**
 
 ---
 
