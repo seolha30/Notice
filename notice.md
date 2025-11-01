@@ -3,8 +3,10 @@
 - 매일 원하는 시간에 본인의 주제에 맞는
 - '어제의 떡상 영상'을 매일 메일로 받아보세요!
 
-### 🚀 TubeLens v6.2.8 업데이트 10-31
+### 🚀 TubeLens v6.2.9 업데이트 11-02
 
+- AI 추천 아이디어 -> AI 콘텐츠 분석 기능 변경
+: 튜브레터처럼 영상의 제목패턴, 조회수비결, 차별화 분석과 어제의 핫한 영상 TOP 6 제공
 - 영상 수집 후, 원하는 영상의 채널 즐겨찾기 추가
 - 채널 즐겨찾기 목록 다운로드
 - **<span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/8ZCZv0epaI0" style="color: #4a9eff; text-decoration: underline;">v6.2.8 업데이트 영상</a>**
