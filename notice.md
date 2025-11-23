@@ -1,8 +1,8 @@
-## 🚀 TubeLens v6.3.0 업데이트 11-10
+## 🚀 TubeLens v6.3.1 업데이트 11-24
 
-- 분석 및 대본생성의 '분석 기능 업데이트'
-- 짜깁기 영상의 원본영상을 찾기 위한 '원본 찾기 키워드' 섹션 추가 
-: '분석하기' 후, 영상 분석 결과 내에서 확인하실 수 있습니다.
+- 무료! 무제한! TTS 기능 추가!
+- 많은 TTS 사용자분들을 위한 '베이직 TTS' 기능을 추가했습니다.
+### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/oeKNlqx4G-A" style="color: #4a9eff; text-decoration: underline;">v6.3.1 TTS 업데이트</a>
 
 ---
 
