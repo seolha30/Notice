@@ -1,6 +1,6 @@
-## 🚀 TubeLens v6.3.1 업데이트 11-24
+## 🚀 TubeLens v6.3.2 업데이트 11-24
 
-- 무료! 무제한! TTS 기능 추가!
+- 무료! 무제한! TTS 기능 추가! (+ 다운로드 오류수정)
 - 많은 TTS 사용자분들을 위한 '베이직 TTS' 기능을 추가했습니다.
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/oeKNlqx4G-A" style="color: #4a9eff; text-decoration: underline;">v6.3.1 TTS 업데이트</a>
 
