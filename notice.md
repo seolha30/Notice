@@ -1,3 +1,9 @@
+## ⚡️튜브렌즈 블프데이 이벤트!
+- 최대 51% 할인을 시작합니다! (총 455일권! (15개월)
+- 📅 11/25~12/1 단, 7일간!
+- ⚠️주의! 매일 5,000원씩 가격 상승!
+- **<span style="color: #ffff00; font-weight: bold;">🎁 </span>: <a href="https://tubelens.kr/bfday" style="color: #4a9eff; text-decoration: underline;">튜브렌즈 블프데이 소개 및 신청하기</a>**
+
 ## 🚀 TubeLens v6.3.2 업데이트 11-24
 
 - 무료! 무제한! TTS 기능 추가! (+ 다운로드 오류수정)
