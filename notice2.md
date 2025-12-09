@@ -1,6 +1,8 @@
 # 🚀 TubeLens v6.0.3 업데이트
 
-![로고](https://raw.githubusercontent.com/seolha30/Notice/main/logo.png)
+게시일: 2025-12-10
+
+![로고](https://raw.githubusercontent.com/seolha30/Tubelens/main/logomini.png)
 
 ---
 
@@ -10,10 +12,14 @@
 
 ---
 
-## 🎉 **주요 업데이트 내역**
+## 🎉 주요 업데이트 내역
 
-- 검색 히스토리 기능 추가
-- 채널 즐겨찾기 시스템
-- 성능 개선
+- **검색 히스토리 기능 추가** - 이전 검색 결과로 빠르게 이동
+- **채널 즐겨찾기 시스템** - 자주 보는 채널을 그룹별로 관리
+- **성능 개선** - 더 빠르고 안정적인 분석
 
-문의: tubelens24@gmail.com
+---
+
+**문의:** tubelens24@gmail.com
+
+**즐거운 분석 되세요!** 🚀
