@@ -1,17 +1,19 @@
-# 🚀 TubeLens 업데이트
+# 🚀 TubeLens v6.0.3 업데이트
 
-![로고](https://raw.githubusercontent.com/seolha30/Tubelens/main/logomini.png)
+![로고](https://raw.githubusercontent.com/seolha30/Notice/main/logo.png)
 
-안녕하세요! 새로운 기능이 추가되었습니다.
-```
+---
 
-**3단계: 프로그램 실행**
-- 콘솔에 이런 메시지가 나와야 정상:
-```
-=== 이미지 처리 시작 ===
-마크다운에서 발견된 이미지 개수: 1개
-  1. [로고] [https://raw.githubusercontent.com/seolha30/Notice/main/logo.png](https://raw.githubusercontent.com/seolha30/Tubelens/main/logomini.png)
-========================================
-이미지 다운로드 시도: https://raw.githubusercontent.com/...
-이미지 변환 성공: 12345 bytes
+## 📺 업데이트 소개 영상
 
+<iframe width="440" height="247" src="https://www.youtube.com/embed/d-QhBU8x2Hg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## 🎉 **주요 업데이트 내역**
+
+- 검색 히스토리 기능 추가
+- 채널 즐겨찾기 시스템
+- 성능 개선
+
+문의: tubelens24@gmail.com
