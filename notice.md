@@ -1,15 +1,8 @@
-## v6.3.3 업데이트!🎙️베이직 TTS 복구!
+## 🎙️베이직 TTS 복구! v6.3.3 업데이트! 12-11
 - 베이직 tts 일부 목소리 변경
 - 상황에 따라, 해당 무료 무제한 서비스가 중단 될수 있습니다.
 - 대본생성 프롬프트 강화
   
-
-## 🚀 TubeLens v6.3.2 업데이트 11-24
-
-- 무료! 무제한! TTS 기능 추가! (+ 다운로드 오류수정)
-- 많은 TTS 사용자분들을 위한 '베이직 TTS' 기능을 추가했습니다.
-### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/oeKNlqx4G-A" style="color: #4a9eff; text-decoration: underline;">v6.3.1 TTS 업데이트</a>
-
 ---
 
 ### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/gCm_ZJL1-T0" style="color: #4a9eff; text-decoration: underline;">v6.2.1 업데이트 안내</a>
@@ -61,6 +54,9 @@
 ### 4. AI 추천 아이디어 -> AI 콘텐츠 분석 기능 변경
 - 튜브레터처럼 영상의 제목패턴, 조회수비결, 차별화 분석과 어제의 핫한 영상 TOP 6 제공
 
+### 5. 🎙️베이직 TTS
+- 무료 무제한 TTS : 해당 서비스는 불시에 중지될 수 있습니다.
+### <span style="color: #ffff00; font-weight: bold;">📺 </span>: <a href="https://youtu.be/oeKNlqx4G-A" style="color: #4a9eff; text-decoration: underline;">v6.3.1 TTS 업데이트</a>
 ---
 
 ### 📞 **문의**
