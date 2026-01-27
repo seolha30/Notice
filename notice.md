@@ -1,5 +1,5 @@
 ## 🔄 튜브렌즈 v6.3.8 업데이트!
-<br>자막수집 복구! 01-28
+###자막수집 복구! 01-28
 - **<span style="color: #ffff00; font-weight: bold;"></span><a href="https://github.com/seolha30/for_tube/releases/download/v6.3.8/TubeLens.v6.3.8.exe" style="color: #4a9eff; text-decoration: underline;">👉 v6.3.8 다운로드! 👈</a>**
 - 이번 버전부터 자동 업데이트 방식이 개선되었습니다.<br>
 다음 버전부터 적용되므로, 위의 v6.3.8 수동 다운로드 필요!<br>
