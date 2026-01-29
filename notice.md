@@ -1,10 +1,14 @@
-## 🔄 튜브렌즈 v6.3.8 업데이트!
-### ⚠️영상 다운로드 수정중⚠️
-- 유튜브 보안강화가 여러가지를 어렵게 하네요 ㅠ
-- 현재 쇼츠는 정상 다운로드, 롱폼계열은 다운로드가 안되고 있습니다. 곧 수정 배포예정이니 조금만 기다려주세요!
+## 🔄 튜브렌즈 v6.3.9 업데이트!
+2026-01-29
 
-### 자막수집 복구! 01-28
-- **<span style="color: #ffff00; font-weight: bold;"></span><a href="https://github.com/seolha30/for_tube/releases/download/v6.3.8/TubeLens.v6.3.8.exe" style="color: #4a9eff; text-decoration: underline;">👉 v6.3.8 다운로드! 👈</a>**
+### 🎉 영상 다운로드 복구! 🎉
+- **<span style="color: #ffff00; font-weight: bold;"></span><a href="https://github.com/seolha30/for_tube/releases/download/v6.3.9/TubeLens.v6.3.9.exe" style="color: #4a9eff; text-decoration: underline;">👉 v6.3.9 다운로드! 👈</a>**
+- 유튜브 보안강화! 창과 방패!!
+- 롱폼 영상 다운로드가 되지않는 부분 수정완료 하였습니다. 6.3.9 버전을 이용해주세요 :)
+- 홈페이지 다운로드 페이지 또는 위의 다운로드 버튼 클릭!
+
+### 자막수집 복구!
+
 - 이번 버전부터 자동 업데이트 방식이 개선되었습니다.<br>
 다음 버전부터 적용되므로, 위의 v6.3.8 수동 다운로드 필요!<br>
 (또는 홈페이지 프로그램 다운로드 페이지에서 다운로드 가능!)
