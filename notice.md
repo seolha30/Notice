@@ -1,10 +1,10 @@
-## 🔄 튜브렌즈 v6.3.9 업데이트!
-2026-01-29
+## 🔄 튜브렌즈 v6.4.0 업데이트!
+2026-02-05
 
 ### 🎉 영상 다운로드 복구! 🎉
-- **<span style="color: #ffff00; font-weight: bold;"></span><a href="https://github.com/seolha30/for_tube/releases/download/v6.3.9/TubeLens.v6.3.9.exe" style="color: #4a9eff; text-decoration: underline;">👉 v6.3.9 다운로드! 👈</a>**
+- **<span style="color: #ffff00; font-weight: bold;"></span><a href="https://github.com/seolha30/for_tube/releases/download/v6.4.0/TubeLens.v6.4.0.exe" style="color: #4a9eff; text-decoration: underline;">👉 v6.4.0 다운로드! 👈</a>**
 - 유튜브 보안강화! 창과 방패!!
-- 롱폼 영상 다운로드가 되지않는 부분 수정완료 하였습니다. 6.3.9 버전을 이용해주세요 :)
+- 롱폼 영상 다운로드가 되지않는 부분 수정완료 하였습니다. 6.4.0 버전을 이용해주세요 :)
 - 홈페이지 다운로드 페이지 또는 위의 다운로드 버튼 클릭!
 
 ### 자막수집 복구!
