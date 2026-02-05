@@ -1,10 +1,10 @@
-## 🔄 튜브렌즈 v6.4.0 업데이트
-2026-02-05
+## 🔄 튜브렌즈 v6.4.1 업데이트
+2026.02.05-2
 
-### 영상 다운로드 안내사항
-- 현재 유튜브 보안강화로 지속적으로 영상 다운로드가 막히고 있습니다.
-- 쇼츠는 다운로드 가능한 상태이며, 롱폼이 막힌 상태로, 최대한 대응을 해보겠습니다!
-- **<span style="color: #ffff00; font-weight: bold;"></span><a href="https://github.com/seolha30/for_tube/releases/download/v6.4.0/TubeLens.v6.4.0.exe" style="color: #4a9eff; text-decoration: underline;">👉 v6.4.0 다운로드! 👈</a>**
+### 영상 다운로드 재복구!!!🎉🎉
+- 현재 유튜브 보안강화로 지속적으로 영상 다운로드가 막히고 있으나,
+- 쇼츠/롱폼 모두 다운로드 가능!
+- **<span style="color: #ffff00; font-weight: bold;"></span><a href="https://github.com/seolha30/for_tube/releases/download/v6.4.1/TubeLens.v6.4.1.exe" style="color: #4a9eff; text-decoration: underline;">👉 v6.4.1 다운로드! 👈</a>**
 - 유튜브 보안강화! 창과 방패!!
 
 
